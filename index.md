@@ -1,3 +1,5 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I'm leom.d trying to learn Github pages...!
+
+# IT FEEL AWESOME ON GITHUB PAGES...!
